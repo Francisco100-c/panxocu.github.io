@@ -5,4 +5,4 @@ Tecnologias usadas
 - css
 - Bootstrap
 - Google fonts
--Fontawesome
+- Fontawesome
