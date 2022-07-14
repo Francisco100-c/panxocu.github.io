@@ -1,0 +1,17 @@
+
+#body{
+  font-family: 'Roboto', sans-serif;
+}
+#Hero-Section {
+    background-image: url(/assets/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size:;
+    background-position: left;
+  }
+  .fondo{
+    background-color: rgb(120, 153, 142);
+    
+  }
+  #boton{
+    text-align: center;
+  }
